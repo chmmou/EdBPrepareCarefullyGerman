@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>ChMMoU.EdB.PrepareCarefully.German</identifier>
-    <version>1.3.12.3</version>
+    <version>1.3.12.4</version>
     <manifestUri>https://raw.githubusercontent.com/chmmou/EdBPrepareCarefullyGerman/main/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/chmmou/EdBPrepareCarefullyGerman/releases/latest</downloadUri>
 </Manifest>

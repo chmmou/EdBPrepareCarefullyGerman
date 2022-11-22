@@ -150,7 +150,7 @@
   <EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>Kein ungültiger Arbeitstyp</EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>
   <EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Keine Fertigkeitsabzüge</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
   <EdB.PC.Dialog.Backstory.Filter.SkillBonus>Bonus : {0} +{1}</EdB.PC.Dialog.Backstory.Filter.SkillBonus>
-  <EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Bonus : {0}, +{1} ou mieux</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
+  <EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Bonus : {0}, +{1} oder besser</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
   <EdB.PC.Dialog.Backstory.Filter.MatchesFaction>Nur Fraktions-Geschichten</EdB.PC.Dialog.Backstory.Filter.MatchesFaction>
 
   <EdB.PC.Dialog.BodyPart.Header>Wähle einen Bereich</EdB.PC.Dialog.BodyPart.Header>
