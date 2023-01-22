@@ -9,29 +9,24 @@
 		<li>1.3</li>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>This mod contains the German translation for the mod EdB Prepare Carefully 1.3.x.
+	<description>This mod contains the German translation for the mod EdB Prepare Carefully 1.4.x.
 
 Important: It is mandatory to have EdB Prepare Carefully installed for the mod to work. 
-
-Original Mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=735106432]EdB.PrepareCarefully[/url]
-Fork Mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2881889414][1.4 FORK] EdB Prepare Carefully[/url]
-
-Notice: If the original author updates his mod I will update this mod again
 
 German Transaltion by ChMMoU.
 	</description>
 	<modDependencies>
 		<li>
-			<packageId>EdB.PrepareCarefully.alonske.fork</packageId>
-			<displayName>[1.4 FORK] EdB Prepare Carefully</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2881889414</steamWorkshopUrl>
-			<downloadUrl>https://github.com/alonske/EdBPrepareCarefully/releases/latest</downloadUrl>
+			<packageId>EdB.PrepareCarefully</packageId>
+			<displayName>EdB Prepare Carefully</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/735106432</steamWorkshopUrl>
+			<downloadUrl>https://github.com/edbmods/EdBPrepareCarefully/releases/latest</downloadUrl>
 		</li>
 	</modDependencies>
 	<incompatibleWith>
-		<li>EdB.PrepareCarefully</li>
+		<li>EdB.PrepareCarefully.alonske.fork</li>
 	</incompatibleWith>
 	<forceLoadAfter>
-		<li>EdB.PrepareCarefully.alonske.fork</li>
+		<li>EdB.PrepareCarefully</li>
 	</forceLoadAfter>
 </ModMetaData>
